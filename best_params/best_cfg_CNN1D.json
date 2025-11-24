@@ -1,0 +1,15 @@
+{
+  "type": "CNN1D",
+  "conv_channels": [
+    48,
+    96,
+    160
+  ],
+  "kernel_sizes": [
+    5,
+    3,
+    3
+  ],
+  "dropout": 0.4,
+  "lr": 0.001
+}

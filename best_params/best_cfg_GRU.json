@@ -1,0 +1,7 @@
+{
+  "type": "GRU",
+  "hidden_size": 192,
+  "num_layers": 3,
+  "dropout": 0.4,
+  "lr": 0.001
+}

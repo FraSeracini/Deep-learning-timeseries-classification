@@ -1,0 +1,8 @@
+{
+  "type": "Transformer",
+  "hidden_dim": 192,
+  "nhead": 4,
+  "num_layers": 4,
+  "dropout": 0.4,
+  "lr": 0.0005
+}
